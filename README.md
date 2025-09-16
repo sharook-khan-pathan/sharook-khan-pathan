@@ -14,7 +14,7 @@ thinking organization.
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
 generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" 
 width="40" /></a> 
-<a href="mailto:sharookkhanpathan626@gamil.com" target="blank"><img align="center" 
+<a href="mailto:sharookkhanpathan626@gmail.com" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
 generator/master/src/images/icons/Social/gmail.svg" alt="My Email Address" height="30" width="40" 
 /></a> 
