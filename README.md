@@ -16,18 +16,15 @@
 ### 📌 Featured Projects
 
 🔹 [**Customer Churn Prediction**](#) – Machine Learning model (98% accuracy) to predict churners using Random Forest & XGBoost.
+
 🔹 [**TextUtils (React App)**](#) – Browser-based text editor with live preview, dark mode, word count & more.
+
 🔹 [**Personal Portfolio Website**](#) – Responsive portfolio to showcase projects & skills.
+
 🔹 [**Automated Fraud Detection System (Mini-Project)**](#) – Detects suspicious transactions using rule-based fraud detection.
 
 ---
 
-### 📈 GitHub Stats
-
-![Sharook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharook-khan-pathan\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharook-khan-pathan\&layout=compact\&theme=tokyonight)
-
----
 
 ### 🌐 Connect with Me
 
