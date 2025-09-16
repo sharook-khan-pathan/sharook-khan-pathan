@@ -13,18 +13,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-🔹 [**Customer Churn Prediction**](#) – Machine Learning model (98% accuracy) to predict churners using Random Forest & XGBoost.
-
-🔹 [**TextUtils (React App)**](#) – Browser-based text editor with live preview, dark mode, word count & more.
-
-🔹 [**Personal Portfolio Website**](#) – Responsive portfolio to showcase projects & skills.
-
-🔹 [**Automated Fraud Detection System (Mini-Project)**](#) – Detects suspicious transactions using rule-based fraud detection.
-
----
-
 
 ### 🌐 Connect with Me
 
