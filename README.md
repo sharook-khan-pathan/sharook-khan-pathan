@@ -24,6 +24,7 @@
 ## 📈 GitHub Stats  
 ![Sharook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharook-khan-pathan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharook-khan-pathan&layout=compact&theme=tokyonight)  
+![Sharook's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharook-khan-pathan&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
 
 ---
 
