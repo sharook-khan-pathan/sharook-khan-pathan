@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name]           
  
 <p align="left"> 
-A passionate and results-oriented **Java Full Stack Developer** from Hyderabad with a strong 
+A passionate and results-oriented <b>Java Full Stack Developer</b> from Hyderabad with a strong 
 foundation in building scalable web applications using Spring Boot, Microservices, and AWS. I'm 
 actively seeking opportunities to apply my skills to real-world challenges and contribute to a forward
 thinking organization. 
@@ -10,11 +10,11 @@ thinking organization.
  
 ###    Let's Connect: 
 <p align="left"> 
-<a href="https://linkedin.com/in/[Your-LinkedIn-Username]" target="blank"><img align="center" 
+<a href="linkedin.com/in/sharook-khan-pathan-8ab73a268/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
 generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" 
 width="40" /></a> 
-<a href="mailto:[your.email@gmail.com]" target="blank"><img align="center" 
+<a href="mailto:sharookkhanpathan626@gamil.com" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
 generator/master/src/images/icons/Social/gmail.svg" alt="My Email Address" height="30" width="40" 
 /></a> 
