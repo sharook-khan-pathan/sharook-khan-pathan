@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sharook Khan Pathan  
 
-🚀 **Junior Java Full Stack Developer** | Skilled in **Java, Spring Boot, React.js, MySQL** | Passionate about building scalable applications & solving real-world problems.  
+🚀 **Full Stack Developer** | Skilled in **Java, Python, Spring Boot, React.js, MySQL, Node.js** | Passionate about building scalable applications & solving real-world problems.  
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## 📌 Featured Projects  
 🔹 [**Customer Churn Prediction**](https://github.com/sharook-khan-pathan/customer-churn-prediction) – ML model with 98% accuracy using RandomForest & XGBoost, Streamlit dashboard for predictions.  
-🔹 [**Personal Portfolio Website**](https://github.com/sharook-khan-pathan/portfolio-website) – Responsive portfolio to showcase my projects & skills.  
-🔹 [**Student Management System**](https://github.com/sharook-khan-pathan/student-management-system) – Java + MySQL app to manage student records using OOPs & JDBC.  
+🔹 [**MultiData Processing System**](https://github.com/sharook-khan-pathan/MultiModelDataProcessingSystemProject) – A professional Python application that uses ChromaDB for document storage and Google's Gemini AI for intelligent question answering across multiple file formats.  
+🔹 [**Smart Job Portal & Resume Matcher**](https://github.com/sharook-khan-pathan/Smart-Job-Portal-Resume-Matcher) – Java + MySQL + React.js + Spring + RestAPI. 
 
 ---
 
