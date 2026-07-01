@@ -1,16 +1,20 @@
 # 👋 Hi, I'm Sharook Khan Pathan  
 
-🚀 **Full Stack Developer** | Skilled in **Java, Python, Spring Boot, React.js, MySQL, Node.js** | Passionate about building scalable applications & solving real-world problems.  
+🚀 **AI/LLM Developer** | Recent graduate with hands-on experience in AI application development, FastAPI, Python, PostgreSQL, and Large
+Language Models (LLMs). Currently working as an AI/LLM Intern at Coastal Seven Technologies, contributing to
+the development of an AI University ERP Copilot using RAG architecture and modern AI technologies. Passionate
+about backend development, machine learning, and building scalable AI-powered applications.
+TECHNICAL SKILLS  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, C, Python  
-- **Backend:** Spring Boot, REST APIs  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Database:** MySQL / SQL  
-- **Tools:** Git, GitHub, VS Code, Eclipse  
-- **Extras:** Machine Learning (Churn Prediction, Fraud Detection)  
+**Languages:** Java, C, Python
+**Tools & Technologies:** VS Code, Git, GitHub, Postman
+**AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
+**Backend Development:** FastAPI, REST APIs, SQLAlchemy
+**Libraries:** Streamlit, NumPy, Pandas, Scikit-learn
+**Databases:** MySQL, PostgreSQL  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
